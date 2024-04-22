@@ -1,1 +1,9 @@
-/* css */
+@charset "utf-8";
+
+body{
+    background-color: rgb(195, 195, 255);
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
